@@ -1,3 +1,4 @@
+A Basic search-based weather app. It dispays the temprature,place and weather tag.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
