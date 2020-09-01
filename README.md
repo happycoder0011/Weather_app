@@ -1,4 +1,7 @@
-A Basic search-based weather app. It dispays the temprature,place and weather tag.
+## Weather Search App
+# A Basic search-based weather app. It dispays the temprature, place and weather tag i.e- sunny, rainy, cold etc. It uses openweathermap.org api.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
